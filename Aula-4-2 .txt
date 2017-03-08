@@ -1,0 +1,16 @@
+
+Arquitetura baseada em componentes (component-based)
+	
+	- VRaptor
+		O VRaptor 4 traz alta produtividade para um desenvolvimento Java Web rápido e fácil com CDI. É um framework MVC opensource com grande comunidade de desenvolvedores e usuários!
+
+
+Message Bus
+
+	- Jet
+		Jet é livre! e com o codifo aberto. Ao lado de Javascript implementado para HTML5 e Node.js, Há libs disponíveis para Lua e Arduino.
+
+
+Service-Oriented Architecture (SOA)
+
+	- 
