@@ -1,12 +1,2 @@
-O objetivo do sistema é fornecer agilidade no processo de remanejamento
-(transferência de itens entre os hospitais), padronizar o processo de requisição de compras (
-através do informativo de saldo das unidades) e gerir Ordem de Fornecimento (Distribuição
-dos itens após realizar todo o processo de compra).
-
-Objetivos específicos são:
-Armazenamento de dados de fornecedores, medicamentos e produtos hospitalares;
-Restrições no controle de acesso entre diferentes níveis de usuários;
-Automatizar o processo de compras;
-Velocidade na inserção e consulta de dados;
-Gerar Dashboard e Relatórios.
+Triagem
 
